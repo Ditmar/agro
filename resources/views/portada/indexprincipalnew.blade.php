@@ -35,7 +35,8 @@
 
 <!--header start here -->
 <header class="header navbar fixed-top navbar-expand-md">
-    <div class="container">
+
+    <div class="container h-100">
         <a class="navbar-brand logo" href="#">
             <script type="text/javascript">
 //<![CDATA[
@@ -83,6 +84,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
 <section id="home" class="home-cover" >
     <div class="cover_slider owl-carousel owl-theme">
         <div class="cover_item" style="background: url('../assets/img/bg/slider.png');">
+
              <div class="slider_content">
                 <div class="slider-content-inner">
                     <div class="container">
@@ -108,7 +110,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     <div class="container">
                         <div class="slider-content-left">
                             <h2 class="cover-title">
-                                Preparate
+                                Congreso Internacional de <br> Ingeniería Agroindustrial
                             </h2>
                             <strong class="cover-xl-text">VI-CIIA 2019</strong>
                             <p class="cover-date">
@@ -128,7 +130,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     <div class="container">
                         <div class="slider-content-center">
                             <h2 class="cover-title">
-                              Preparate
+                              Congreso Internacional de <br>  Ingeniería Agroindustrial
                             </h2>
                             <strong class="cover-xl-text">VI-CIIA 2019</strong>
                             <p class="cover-date">
@@ -172,6 +174,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
             </div>
 
             <div class="col-6 col-md-3  ">
+
                 <div class="icon_box_two">
                     <i class="ion-ios-location-outline"></i>
                     <div class="content">
@@ -192,6 +195,20 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
     </div>
 </section>
 <!--event info end -->
+<section class="bg-img pt70 pb70">
+  <div class="container">
+    <div class="section_title">
+        <h3 class="title">
+            Potosí
+        </h3>
+    </div>
+    <div id="videcontainer" class="row justify-content-center">
+      <video playsinline="playsinline" autoplay="autoplay" muted="false" loop="loop">
+        <source src="{{asset('../assets/video/Ciia190.mp4')}}" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</section>
 
 
 <!--event countdown -->
@@ -631,7 +648,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
             </h3>
         </div>
         <div class="row justify-content-center align-items-center">
-            
+
             <div class="col-md-3 text-md-right text-center">
                 <a href="#" class="btn btn-primary btn-rounded mt30">comienzan el 1ro de marzo del 2019</a>
             </div>
