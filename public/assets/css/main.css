@@ -34,6 +34,7 @@ body {
   color: #838383;
   font-style: normal;
   overflow-x: hidden;
+  border:3px solid #000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -264,6 +265,19 @@ strong {
 .capitalize {
   text-transform: capitalize;
 }
+.icon_key{
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  display: inline-block;
+  border-radius: 50%;
+}
+#hotels{
+  -webkit-box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
+  padding: 10px;
+}
+
 
 img {
   max-width: 100%;
@@ -1664,7 +1678,7 @@ header ul.menu li a.nav-link:hover {
 }
 header ul.menu .search_btn {
   padding: 16px 8px !important;
-  color: #ffffff;
+  color: #FA660E;
 }
 header ul.menu .search_btn a {
   font-size: 30px;
@@ -1715,7 +1729,7 @@ header.sticky_header {
 
 .navbar-toggler {
   border: 1px solid #ffffff;
-  color: #ffffff;
+  color: #f79257;
   padding: 5px 10px;
   font-size: 22px;
   outline: 0 !important;
@@ -1725,7 +1739,7 @@ header.sticky_header {
   border-radius: 2px;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 67px) {
   header li:hover > ul {
     display: block;
     visibility: visible;
@@ -1737,6 +1751,7 @@ header.sticky_header {
     margin: 0;
     -webkit-box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
     box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
+    opacity: 0.8;
     -webkit-transition: all ease-in-out 0.4s;
     transition: all ease-in-out 0.4s;
   }
