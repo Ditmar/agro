@@ -1745,6 +1745,18 @@ header.sticky_header {
     visibility: visible;
   }
 }
+#videcontainer{
+  min-height : 620px;
+}
+video{
+  position: absolute;
+  border:1px solid #000;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  width: 100%;
+}
 @media (max-width: 767px) {
   header {
     background-color: #18181c;
