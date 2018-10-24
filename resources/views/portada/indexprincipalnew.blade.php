@@ -88,11 +88,11 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     <div class="container">
                         <div class="slider-content-center">
                             <h2 class="cover-title">
-                                vi congreso internacional de ingeniería agroindustrial 2019
+                                vi congreso internacional de <br/> ingeniería agroindustrial 2019
                             </h2>
-                            <strong class="cover-xl-text">CIIA V.6 2019</strong>
+                            <strong class="cover-xl-text">VI-CIIA 2019</strong>
                             <p class="cover-date">
-                                3-9 de noviembre del 2019 - Potosí - Bolivia
+                                16-20 de septiembre del 2019 - Potosí - Bolivia
                             </p>
                             <a href="" section="#inscribete" id="btn_inscribete" class=" btn btn-primary btn-rounded" >
                                 Inscribete ahora
@@ -110,9 +110,9 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                             <h2 class="cover-title">
                                 Preparate
                             </h2>
-                            <strong class="cover-xl-text">CIIA V.6 2019</strong>
+                            <strong class="cover-xl-text">VI-CIIA 2019</strong>
                             <p class="cover-date">
-                                  3-9 de noviembre del 2019 - Potosí - Bolivia
+                                  16-20 de septiembre del 2019 - Potosí - Bolivia
                             </p>
                             <a href="#" class=" btn btn-primary btn-rounded" >
                                 Inscribete ahora
@@ -130,9 +130,9 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                             <h2 class="cover-title">
                               Preparate
                             </h2>
-                            <strong class="cover-xl-text">CIIA V.6 2019</strong>
+                            <strong class="cover-xl-text">VI-CIIA 2019</strong>
                             <p class="cover-date">
-                                  3-9 de noviembre del 2019  - Potosí - Bolivia
+                                  16-20 de septiembre del 2019  - Potosí - Bolivia
                             </p>
                             <a href="#" class=" btn btn-primary btn-rounded" >
                                 Inscribete ahora
@@ -165,7 +165,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                             Fecha
                         </h5>
                         <p>
-                            3-9 de noviembre del 2019
+                            16-20 de septiembre del 2019
                         </p>
                     </div>
                 </div>
@@ -220,13 +220,13 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
         <div class="row justify-content-center">
             <div class="col-12 col-md-6">
                 <p>
-                  Se celebrará en el Centro de Transferencia Tecnológica y Educación Continua UATF Facutad De AGROINDUSTRIAL, ubicado en Ciudad de Potosi-Bolivia, durante los días 22 al 27 de octubre del 2019. Este congreso estará vinculado al Programa de Doctorado en Ciencias Naturales para el Desarrollo (DOCINADE) y a la Escuela de Ciencias Naturales y Exactas (CNE)
+                  El desarrollo del sector agroindustrial en la región latinoamericana dinamiza la agregación de valor a la producción agropecuaria incluida la biodiversidad, favoreciendo en sus sistemas y cadenas de valor la inclusión de los agricultores, y operadores privados y públicos, generando una multiplicidad de beneficios para dichos actores, a la vez aún con problemas y limitaciones propias de la actividad de transformación.
                 </p>
             </div>
             <div class="col-12 col-md-6">
                 <p>
-                   y contará con la colaboración del Centro Nacional de Ciencia y Tecnología de Alimentos (CITA) de la Universidad de Costa Rica y la Escuela de Tecnología de la Universidad Técnica Nacional (UTN), a través de la carrera de Tecnología de Alimentos.
-                 </br>
+                  En esta medida el sector agroindustrial es un potencial a considerar por los generadores de políticas públicas en la generación de economía y empleo, considerando esta opción desde la producción primaria, actividades específicas o especializadas y el eslabón de desarrollo de nuevas tecnologías,  que permitan al margen la generación de alimentos para una población en permanente crecimiento.
+                </br>
                 </p>
             </div>
         </div>
@@ -361,7 +361,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
             <div class="col-md-4 col-12">
                 <div class="price_box active">
                     <div class="price_highlight">
-                        Recomendado
+                        Hoteles
                     </div>
                    <div class="price_header">
                        <h4>
@@ -377,10 +377,74 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     <div class="price_features">
                         <ul>
                             <li>
-                                Estudiantes 100$
+                                Hoteles
                             </li>
                             <li>
-                                Profesionales 150$
+                                Profesionales 0$
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="price_footer">
+                        <a href="#" class="btn btn-primary btn-rounded">Inscribete</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-12">
+                <div class="price_box active">
+                    <div class="price_highlight">
+                        Hoteles
+                    </div>
+                   <div class="price_header">
+                       <h4>
+                           Antes de
+                       </h4>
+                       <h6>
+                           fecha
+                       </h6>
+                   </div>
+                    <div class="price_tag">
+                        100 <sup>$</sup>
+                    </div>
+                    <div class="price_features">
+                        <ul>
+                            <li>
+                                Hoteles
+                            </li>
+                            <li>
+                                Profesionales 0$
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="price_footer">
+                        <a href="#" class="btn btn-primary btn-rounded">Inscribete</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-12">
+                <div class="price_box active">
+                    <div class="price_highlight">
+                        Hoteles
+                    </div>
+                   <div class="price_header">
+                       <h4>
+                           Antes de
+                       </h4>
+                       <h6>
+                           fecha
+                       </h6>
+                   </div>
+                    <div class="price_tag">
+                        100 <sup>$</sup>
+                    </div>
+                    <div class="price_features">
+                        <ul>
+                            <li>
+                                Hoteles
+                            </li>
+                            <li>
+                                Profesionales 0$
                             </li>
 
                         </ul>
@@ -486,12 +550,12 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     </td>
                     <td class="event_date">
                         8
-                        <span>Marzo</span>
+                        <span>Abril</span>
                     </td>
                     <td colspan="3">
                         <div class="event_place">
                             <h5>Preinscripciónes</h5>
-                            <h6>8 de marzo - 31 de octubre</h6>
+                            <h6>8 de Abril - 3 de Septiembre</h6>
                         </div>
                     </td>
 
@@ -507,7 +571,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                   <td colspan="3">
                       <div class="event_place">
                           <h5>Recepción de propuestas</h5>
-                          <h6>8 de abril - 31 de octubre</h6>
+                          <h6>8 de abril - 1 de Agosto</h6>
                           <h7>Recepción de propuestas dentro los ejes temáticos, revisión y aprobación. </h7>
                       </div>
                   </td>
@@ -517,13 +581,13 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                       <img data-cfsrc="{{asset('../assets/img/cleander/c5.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                   </td>
                   <td class="event_date">
-                      1
-                      <span>noviembre</span>
+                      11
+                      <span>Septiembre</span>
                   </td>
                   <td colspan="3">
                       <div class="event_place">
                           <h5>Inscripción oficial de participantes.</h5>
-                          <h6>1 de noviembre - 3 de noviembre</h6>
+                          <h6>11 de Septiembre - 15 de Septiembre</h6>
                       </div>
                   </td>
                 </tr>
@@ -532,13 +596,13 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                       <img data-cfsrc="{{asset('../assets/img/cleander/c1.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                   </td>
                   <td class="event_date">
-                      3
-                      <span>Noviembre</span>
+                      15
+                      <span>Septiembre</span>
                   </td>
                   <td colspan="3">
                       <div class="event_place">
                           <h5>Recepción de participantes.</h5>
-                          <h6>3 de noviembre - 4 de noviembre</h6>
+                          <h6>16 de Septiembre - 20 de Septiembre</h6>
                       </div>
                   </td>
                 </tr>
@@ -547,8 +611,8 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                       <img data-cfsrc="{{asset('../assets/img/cleander/c6.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                   </td>
                   <td class="event_date">
-                      4
-                      <span>Noviembre</span>
+                      16
+                      <span>Septiembre</span>
                   </td>
                   <td colspan="3">
                       <div class="event_place">
@@ -562,13 +626,13 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                       <img data-cfsrc="{{asset('../assets/img/cleander/c7.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                   </td>
                   <td class="event_date">
-                      4
-                      <span>Noviembre</span>
+                      16
+                      <span>Septiembre</span>
                   </td>
                   <td colspan="3">
                       <div class="event_place">
                           <h5>Desarrollo</h5>
-                          <h6>4 de Noviembre - 9 de Noviembre</h6>
+                          <h6>16 de Septiembre - 20 de Septiembre</h6>
                           <h7>Desarrollo del evento en base a programa especial y ejes temáticos. </h7>
                       </div>
                   </td>
