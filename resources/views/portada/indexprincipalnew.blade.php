@@ -8,7 +8,7 @@
     <meta name="author" content="ColorLib">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- ========== Title ========== -->
-    <title> Evento - Event Html Template</title>
+    <title> vi congreso internacional de  ingeniería agroindustrial 2019</title>
     <!-- ========== Favicon Ico ========== -->
     <!--<link rel="icon" href="fav.ico">-->
     <!-- ========== STYLESHEETS ========== -->
@@ -43,7 +43,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
 //]]>
 </script>
 <script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
-<img data-cfsrc="{{asset('../assets/img/logo.png')}}" alt="Evento" style="display:none;visibility:hidden;" /><noscript><img src="assets/img/logo.png" alt="Evento"/></noscript>
+<img width="100px" data-cfsrc="{{asset('../assets/img/logo.png')}}" alt="Evento" style="display:none;visibility:hidden;" /><noscript><img src="assets/img/logo.png" alt="Evento"/></noscript>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#headernav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="lnr lnr-text-align-right"></span>
@@ -60,7 +60,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     <a class="nav-link " section="#themes" href="#">Ejes temáticos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " section="#price" href="#">Precios</a>
+                    <a class="nav-link " section="#price" href="#">Hoteles</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " section="#cron" href="#">Cronograma</a>
@@ -292,7 +292,11 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                 <div class="speaker_img">
                     <img data-cfsrc="{{asset('../assets/img/speakers/s1.png')}}" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s1.png" alt="speaker name"></noscript>
                     <div class="info_box">
-                        <h5 class="name">AGROINDUSTRIAL</h5>
+                      <h5 class="name">
+                        <div class="icon_key">
+                          <img data-cfsrc="{{asset('../assets/img/icons/img1.png')}}" alt="">
+                      </div>Agroindustrial</h5>
+
                         <p class="position">Paradigmas de políticas públicas en el sector agroindustrial</p>
                     </div>
                 </div>
@@ -303,7 +307,9 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                 <div class="speaker_img">
                     <img data-cfsrc="{{asset('../assets/img/speakers/s2.png')}}" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s2.png" alt="speaker name"></noscript>
                     <div class="info_box">
-                        <h5 class="name">Producción</h5>
+                        <h5 class="name"><div class="icon_key">
+                          <img data-cfsrc="{{asset('../assets/img/icons/img2.png')}}" alt="">
+                      </div>Producción</h5>
                         <p class="position">Calidad y optimización de la producción primaria agropecuaria </p>
                     </div>
                 </div>
@@ -315,7 +321,11 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                 <div class="speaker_img">
                     <img data-cfsrc="{{asset('../assets/img/speakers/s3.png')}}" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
                     <div class="info_box">
-                        <h5 class="name">Tecnología</h5>
+                        <h5 class="name">
+                          <div class="icon_key">
+                            <img data-cfsrc="{{asset('../assets/img/icons/img3.png')}}" alt="">
+                        </div>
+                          Tecnología</h5>
                         <p class="position">Cambios tecnológicos, complementariedad  y competitividad de la agroindustria</p>
                     </div>
                 </div>
@@ -326,7 +336,11 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                 <div class="speaker_img">
                     <img data-cfsrc="{{asset('../assets/img/speakers/s4.png')}}" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
                     <div class="info_box">
-                        <h5 class="name">Calidad</h5>
+                        <h5 class="name">
+                          <div class="icon_key">
+                            <img data-cfsrc="{{asset('../assets/img/icons/img4.png')}}" alt="">
+                        </div>
+                          Calidad</h5>
                         <p class="position">Calidad y optimización de la producción primaria agropecuaria </p>
                     </div>
                 </div>
@@ -337,7 +351,11 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                 <div class="speaker_img">
                     <img data-cfsrc="{{asset('../assets/img/speakers/s5.png')}}" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
                     <div class="info_box">
-                        <h5 class="name">Normativas medioambientales</h5>
+                        <h5 class="name">
+                          <div class="icon_key">
+                            <img data-cfsrc="{{asset('../assets/img/icons/img5.png')}}" alt="">
+                        </div>
+                          Normativas medioambientales</h5>
                         <p class="position">Normativas medioambientales en el desarrollo de la agroindustria</p>
                     </div>
                 </div>
@@ -353,169 +371,99 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
     <div class="container">
         <div class="section_title mb50">
             <h3 class="title">
-                Precios
+                Hoteles
             </h3>
         </div>
-
         <div class="row justify-content-center">
-            <div class="col-md-4 col-12">
-                <div class="price_box active">
-                    <div class="price_highlight">
-                        Hoteles
-                    </div>
-                   <div class="price_header">
-                       <h4>
-                           Antes de
-                       </h4>
-                       <h6>
-                           fecha
-                       </h6>
-                   </div>
-                    <div class="price_tag">
-                        100 <sup>$</sup>
-                    </div>
-                    <div class="price_features">
-                        <ul>
-                            <li>
-                                Hoteles
-                            </li>
-                            <li>
-                                Profesionales 0$
-                            </li>
+            <div id="hotels" class="col-md-3 col-6">
+              <div class="speaker_boxs">
+                  <div class="speaker_img">
+                      <img src="https://s-ec.bstatic.com/xdata/images/hotel/square600/124954406.jpg?k=e32b993612b7e543ae589a8a0c4deecc5247b827269878a626f774630da19f05&o=" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
+                      <div class="info_box">
+                        <a href="https://www.booking.com/hotel/bo/santa-teresa.es.html?aid=306396;label=bo-nbUezTgYwnMKRi%2AOwtNqlwS154573037197%3Apl%3Ata%3Ap1480%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atikwd-740816091%3Alp9069868%3Ali%3Adec%3Adm;sid=6dda5d6be02beaf00d303ee958f1f438;dest_id=-697971;dest_type=city;dist=0;group_adults=2;hapos=7;hpos=7;room1=A%2CA;sb_price_type=total;srepoch=1540353671;srfid=e22a51c4aaddc1b5f16a6209555dcb6607e0a02aX7;srpvid=87a61c4385e6006d;type=total;ucfs=1&#hotelTmpl" target="_blank"> <h5 class="name">Hotel Santa Teresa</h5></a>
+                          <p class="position">Santa Teresa ofrece habitaciones con TV y conexión inalámbrica a internet gratuita.</p>
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <div id="hotels" class="col-md-3 col-6">
+              <div class="speaker_boxs">
+                  <div class="speaker_img">
+                      <img src="https://s-ec.bstatic.com/xdata/images/hotel/square600/59767260.jpg?k=fd3a8aa86d0c80cfc10a7b20e66996da4b5b63d3f2537856cfa326266c702974&o=" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
+                      <div class="info_box">
+                        <a href="https://www.booking.com/hotel/bo/eucalyptus.es.html?aid=306396&label=bo-nbUezTgYwnMKRi*OwtNqlwS154573037197%3Apl%3Ata%3Ap1480%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atikwd-740816091%3Alp9069868%3Ali%3Adec%3Adm&sid=6dda5d6be02beaf00d303ee958f1f438&srpvid=c6501aae394200ed&sr_order=popularity&ucfs=1&srpvid=c6501aae394200ed&srepoch=1540352860&room1=A,A&hpos=3&hapos=3&dest_type=city&dest_id=-697971&srfid=566e97399859883c25b52eb4eb6ee472efb580b2X3&from=searchresults;highlight_room=#hotelTmpl" target="_black"><h5 class="name">Eucalyptus</h5></a>
+                          <p class="position">El Eucalyptus se encuentra en Potosí, a 300 meters de la plaza 10 de Noviembre, y ofrece WiFi gratuita y mostrador de información turística.</p>
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <div id="hotels" class="col-md-3 col-6">
+              <div class="speaker_boxs">
+                  <div class="speaker_img">
+                      <img src="https://t-ec.bstatic.com/xdata/images/hotel/square600/33515186.jpg?k=79b984cda59634ca620c713dafdabbd94a0b26974e722dc73d4bafa2c6983445&o=" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
+                      <div class="info_box">
+                          <a href="https://www.booking.com/hotel/bo/la-casona-potosi.es.html?aid=306396&label=bo-nbUezTgYwnMKRi*OwtNqlwS154573037197%3Apl%3Ata%3Ap1480%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atikwd-740816091%3Alp9069868%3Ali%3Adec%3Adm&sid=6dda5d6be02beaf00d303ee958f1f438&srpvid=c6501aae394200ed&sr_order=popularity&ucfs=1&srpvid=c6501aae394200ed&srepoch=1540352860&room1=A,A&hpos=1&hapos=1&dest_type=city&dest_id=-697971&srfid=566e97399859883c25b52eb4eb6ee472efb580b2X1&from=searchresults;highlight_room=#hotelTmpl" target="_blank"><h5 class="name">Hostal la Casona</h5></a>
+                          <p class="position">Santa Teresa ofrece habitaciones con TV y conexión inalámbrica a internet gratuita.</p>
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <div id="hotels" class="col-md-3 col-6">
+              <div class="speaker_boxs">
+                  <div class="speaker_img">
+                      <img src="https://t-ec.bstatic.com/xdata/images/hotel/square600/17794809.jpg?k=3f27b39e6c7e4ad65b81e19a2e8d8e87075e381a30542c8b49ac620fbde65da8&o=" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
+                      <div class="info_box">
+                          <a href="https://www.booking.com/hotel/bo/hostal-tukos-la-casa-real.es.html?aid=306396&label=bo-nbUezTgYwnMKRi*OwtNqlwS154573037197%3Apl%3Ata%3Ap1480%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atikwd-740816091%3Alp9069868%3Ali%3Adec%3Adm&sid=6dda5d6be02beaf00d303ee958f1f438&srpvid=c6501aae394200ed&sr_order=popularity&ucfs=1&srpvid=c6501aae394200ed&srepoch=1540352860&room1=A,A&hpos=5&hapos=5&dest_type=city&dest_id=-697971&srfid=566e97399859883c25b52eb4eb6ee472efb580b2X5&from=searchresults;highlight_room=#hotelTmpl" target="_blank"><h5 class="name">Hostal Tukos La Casa Real</h5></a>
+                          <p class="position">Esta casa remodelada de hace 160 años ofrece alojamiento en la antigua ciudad de Potosí y dispone de terraza con vistas panorámicas, sky bar y restaurante. Además, ofrece conexión WiFi gratuita.</p>
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <div id="hotels" class="col-md-3 col-6">
+              <div class="speaker_boxs">
+                  <div class="speaker_img">
+                      <img src="https://s-ec.bstatic.com/xdata/images/hotel/square600/67336830.jpg?k=696a5de74c1c5a177e27ce36053efe13b4d6c6314589f393bb666e762a180e02&o=" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
+                      <div class="info_box">
+                          <a href="https://www.booking.com/hotel/bo/apart-turquesa.es.html?aid=306396&label=bo-nbUezTgYwnMKRi*OwtNqlwS154573037197%3Apl%3Ata%3Ap1480%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atikwd-740816091%3Alp9069868%3Ali%3Adec%3Adm&sid=6dda5d6be02beaf00d303ee958f1f438&srpvid=c6501aae394200ed&sr_order=popularity&ucfs=1&srpvid=c6501aae394200ed&srepoch=1540352860&room1=A,A&hpos=6&hapos=6&dest_type=city&dest_id=-697971&srfid=566e97399859883c25b52eb4eb6ee472efb580b2X6&from=searchresults;highlight_room=#hotelTmpl" target="_blank"><h5 class="name"> Apart Hotel Turquesa  </h5></a>
+                          <p class="position">El Apart Hotel Turquesa está ubicado en Potosí, a 300 metros de una zona comercial. Ofrece conexión Wi-Fi y desayuno continental de forma gratuita.</p>
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <div id="hotels" class="col-md-3 col-6">
+              <div class="speaker_boxs">
+                  <div class="speaker_img">
+                      <img src="https://s-ec.bstatic.com/xdata/images/hotel/square600/54520031.jpg?k=643791c740074973ac27ed8393cc0e0f13dca5d674f05cdda850456d80a1653d&o=" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
+                      <div class="info_box">
+                          <a href="https://www.booking.com/hotel/bo/coloso-potosi.es.html?aid=306396;label=bo-nbUezTgYwnMKRi%2AOwtNqlwS154573037197%3Apl%3Ata%3Ap1480%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atikwd-740816091%3Alp9069868%3Ali%3Adec%3Adm;sid=6dda5d6be02beaf00d303ee958f1f438;dest_id=-697971;dest_type=city;dist=0;group_adults=2;hapos=8;hpos=8;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1540352860;srfid=566e97399859883c25b52eb4eb6ee472efb580b2X8;srpvid=c6501aae394200ed;type=total;ucfs=1&#hotelTmpl" target="_blank"><h5 class="name">Hotel Coloso Potosi</h5></a>
+                          <p class="position">El Hotel Coloso Potosi se encuentra en Potosí, a 5 minutos a pie de la catedral de Potosí, y ofrece un centro de fitness y un bar.</p>
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <div id="hotels" class="col-md-3 col-6">
+              <div class="speaker_boxs">
+                  <div class="speaker_img">
+                      <img src="https://s-ec.bstatic.com/xdata/images/hotel/square600/33863727.jpg?k=e2e0fa13d8342aabf4e6b6a0db2f739b71c32855dd3428535d2d9c2e9bbd166b&o=" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
+                      <div class="info_box">
+                          <a href="https://www.booking.com/hotel/bo/hostal-patrimonio-potosi.es.html?aid=306396;label=bo-nbUezTgYwnMKRi%2AOwtNqlwS154573037197%3Apl%3Ata%3Ap1480%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atikwd-740816091%3Alp9069868%3Ali%3Adec%3Adm;sid=6dda5d6be02beaf00d303ee958f1f438;dest_id=-697971;dest_type=city;dist=0;group_adults=2;hapos=9;hpos=9;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1540352860;srfid=566e97399859883c25b52eb4eb6ee472efb580b2X9;srpvid=c6501aae394200ed;type=total;ucfs=1&#hotelTmpl" target="_blank"><h5 class="name">Hostal Patrimonio - Potosi</h5></a>
+                          <p class="position">El Hostal Patrimonio, ubicado en un bonito edificio de estilo colonial, ofrece habitaciones con conexión inalámbrica a internet gratuita y TV de plasma.</p>
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <div id="hotels" class="col-md-3 col-6">
+              <div class="speaker_boxs">
+                  <div class="speaker_img">
+                      <img src="https://t-ec.bstatic.com/xdata/images/hotel/square600/163053636.jpg?k=9e2886fb4f13551a0cf892bbacb7dbae79288844f04f1593d078808597d619c4&o=" alt="speaker name" style="display:none;visibility:hidden;"><noscript><img src="assets/img/speakers/s3.png" alt="speaker name"></noscript>
+                      <div class="info_box">
+                          <a href="https://www.booking.com/hotel/bo/hostel-casa-blanca-potosi.es.html?aid=306396&label=bo-nbUezTgYwnMKRi%2AOwtNqlwS154573037197%3Apl%3Ata%3Ap1480%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atikwd-740816091%3Alp9069868%3Ali%3Adec%3Adm&sid=6dda5d6be02beaf00d303ee958f1f438&srpvid=87a61c4385e6006d&ucfs=1&srpvid=87a61c4385e6006d&srepoch=1540353671&room1=A,A&hpos=10&hapos=10&dest_type=city&dest_id=-697971&srfid=e22a51c4aaddc1b5f16a6209555dcb6607e0a02aX10&from=searchresults;highlight_room=#hotelTmpl" target="_blank"><h5 class="name">Hostel Casa Blanca Potosi</h5></a>
+                          <p class="position">El Hostel Casa Blanca Potosi está ubicado en la antigua ciudad de Potosí y ofrece alojamientos con conexión WiFi gratuita.</p>
+                      </div>
+                  </div>
+              </div>
+            </div>
 
-                        </ul>
-                    </div>
-                    <div class="price_footer">
-                        <a href="#" class="btn btn-primary btn-rounded">Inscribete</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-12">
-                <div class="price_box active">
-                    <div class="price_highlight">
-                        Hoteles
-                    </div>
-                   <div class="price_header">
-                       <h4>
-                           Antes de
-                       </h4>
-                       <h6>
-                           fecha
-                       </h6>
-                   </div>
-                    <div class="price_tag">
-                        100 <sup>$</sup>
-                    </div>
-                    <div class="price_features">
-                        <ul>
-                            <li>
-                                Hoteles
-                            </li>
-                            <li>
-                                Profesionales 0$
-                            </li>
-
-                        </ul>
-                    </div>
-                    <div class="price_footer">
-                        <a href="#" class="btn btn-primary btn-rounded">Inscribete</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-12">
-                <div class="price_box active">
-                    <div class="price_highlight">
-                        Hoteles
-                    </div>
-                   <div class="price_header">
-                       <h4>
-                           Antes de
-                       </h4>
-                       <h6>
-                           fecha
-                       </h6>
-                   </div>
-                    <div class="price_tag">
-                        100 <sup>$</sup>
-                    </div>
-                    <div class="price_features">
-                        <ul>
-                            <li>
-                                Hoteles
-                            </li>
-                            <li>
-                                Profesionales 0$
-                            </li>
-
-                        </ul>
-                    </div>
-                    <div class="price_footer">
-                        <a href="#" class="btn btn-primary btn-rounded">Inscribete</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-12">
-                <div class="price_box">
-                    <div class="price_header">
-                        <h4>
-                            Estudiantes
-                        </h4>
-                        <h6>
-                            Después de
-                        </h6>
-                    </div>
-                    <div class="price_tag">
-                        150 <sup>$</sup>
-                    </div>
-                    <div class="price_features">
-                        <ul>
-                            <li>
-                                Acceso a todas las conferencias
-                            </li>
-                            <li>
-                                Refrigerios
-                            </li>
-                            <li>
-                               Eventos Sociales
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="price_footer">
-                        <a href="#" class="btn btn-primary btn-rounded">Inscribete</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-12">
-                <div class="price_box">
-                    <div class="price_header">
-                        <h4>
-                            Profesionales
-                        </h4>
-                        <h6>
-                            Después de
-                        </h6>
-                    </div>
-                    <div class="price_tag">
-                        200 <sup>$</sup>
-                    </div>
-                    <div class="price_features">
-                        <ul>
-                          <li>
-                              Acceso a todas las conferencias
-                          </li>
-                          <li>
-                              Refrigerios
-                          </li>
-                          <li>
-                             Eventos Sociales
-                          </li>
-                        </ul>
-                    </div>
-                    <div class="price_footer">
-                        <a href="#" class="btn btn-primary btn-rounded">Inscribete</a>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </section>
@@ -649,7 +597,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
     <div class="container">
         <div class="section_title mb50">
             <h3 class="title">
-                Auspicios/Patrocinios
+                Auspicios
             </h3>
         </div>
         <div class="brand_carousel owl-carousel">
@@ -683,9 +631,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
             </h3>
         </div>
         <div class="row justify-content-center align-items-center">
-            <div class="col-md-9 text-md-left text-center color-light">
-              Las inscripciones comienzan el 1ro de marzo del 2019
-            </div>
+            
             <div class="col-md-3 text-md-right text-center">
                 <a href="#" class="btn btn-primary btn-rounded mt30">comienzan el 1ro de marzo del 2019</a>
             </div>
@@ -812,7 +758,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                         <a href="">Ejes Temáticos</a>
                     </li>
                     <li>
-                        <a href="">Precios</a>
+                        <a href="">Hoteles</a>
                     </li>
                     <li>
                         <a href="">Cronograma</a>
