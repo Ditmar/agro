@@ -1750,7 +1750,6 @@ header.sticky_header {
 }
 video{
   position: absolute;
-  border:1px solid #000;
   min-width: 100%;
   min-height: 100%;
   width: auto;
