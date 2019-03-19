@@ -514,13 +514,13 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                         <img data-cfsrc="{{asset('../assets/img/cleander/c8.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                     </td>
                     <td class="event_date">
-                        8
-                        <span>Abril</span>
+                        11
+                        <span>Marzo</span>
                     </td>
                     <td colspan="3">
                         <div class="event_place">
-                            <h5>Preinscripciónes</h5>
-                            <h6>8 de Abril - 3 de Septiembre</h6>
+                            <h5>11 de marzo 2019 - 30 de junio 2019</h5>
+                            <h7>Recepción de resúmenes al evento dentro de los ejes temáticos (Max.300 palabras)</h7>
                         </div>
                     </td>
 
@@ -530,14 +530,13 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                       <img data-cfsrc="{{asset('../assets/img/cleander/c4.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                   </td>
                   <td class="event_date">
-                      8
-                      <span>Abril</span>
+                      1
+                      <span>Julio</span>
                   </td>
                   <td colspan="3">
                       <div class="event_place">
-                          <h5>Recepción de propuestas</h5>
-                          <h6>8 de abril - 1 de Agosto</h6>
-                          <h7>Recepción de propuestas dentro los ejes temáticos, revisión y aprobación. </h7>
+                          <h5>01 de julio 2018 - 31 de julio 2018</h5>
+                          <h7>Envío de confirmación de aceptación del trabajo según la modalidad: oral o cartel (Los resultados son inapelables)</h7>
                       </div>
                   </td>
                 </tr>
@@ -546,13 +545,13 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                       <img data-cfsrc="{{asset('../assets/img/cleander/c5.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                   </td>
                   <td class="event_date">
-                      11
+                      16
                       <span>Septiembre</span>
                   </td>
                   <td colspan="3">
                       <div class="event_place">
-                          <h5>Inscripción oficial de participantes.</h5>
-                          <h6>11 de Septiembre - 15 de Septiembre</h6>
+                          <h5>16 de septiembre 2019</h5>
+                          <h7>Inicio del congreso</h7>
                       </div>
                   </td>
                 </tr>
@@ -561,13 +560,14 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                       <img data-cfsrc="{{asset('../assets/img/cleander/c1.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                   </td>
                   <td class="event_date">
-                      15
+                      18
                       <span>Septiembre</span>
                   </td>
                   <td colspan="3">
                       <div class="event_place">
-                          <h5>Recepción de participantes.</h5>
-                          <h6>16 de Septiembre - 20 de Septiembre</h6>
+                          <h5>18 de septiembre 2019</h5>
+                          <h7>Asamblea de la Red Universitaria de Ingeniería Agroindustrial (REDUNIA)</h7>
+
                       </div>
                   </td>
                 </tr>
@@ -576,38 +576,97 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                       <img data-cfsrc="{{asset('../assets/img/cleander/c6.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
                   </td>
                   <td class="event_date">
-                      16
+                      20
                       <span>Septiembre</span>
                   </td>
                   <td colspan="3">
                       <div class="event_place">
-                          <h5>Inauguración del evento.</h5>
-                          <h6></h6>
+                          <h5>20 de septiembre</h5>
+                          <h7>Finalización del congreso</h7>
                       </div>
                   </td>
                 </tr>
-                <tr>
-                  <td>
-                      <img data-cfsrc="{{asset('../assets/img/cleander/c7.png')}}" alt="event" style="display:none;visibility:hidden;"><noscript><img src="assets/img/cleander/c1.png" alt="event"></noscript>
-                  </td>
-                  <td class="event_date">
-                      16
-                      <span>Septiembre</span>
-                  </td>
-                  <td colspan="3">
-                      <div class="event_place">
-                          <h5>Desarrollo</h5>
-                          <h6>16 de Septiembre - 20 de Septiembre</h6>
-                          <h7>Desarrollo del evento en base a programa especial y ejes temáticos. </h7>
-                      </div>
-                  </td>
-                </tr>
+
                 </tbody>
             </table>
         </div>
     </div>
 </section>
 <!--event calender end -->
+
+<!--event calender-->
+<section class="pb100" id="cron">
+    <div class="container">
+      <div class="section_title mb50">
+          <h3 class="title">
+              Bases de Participación
+          </h3>
+      </div>
+
+      <div class="row justify-content-center">
+          <div class="col-12 col-md-6">
+              <h4>Instrucciones</h4>
+              <p>
+                <ul>
+                  <li>
+                    Se aceptará un máximo de 2 resúmenes por participante
+                  </li>
+                  <li>
+                    La aceptación de los resúmenes implica la presentación oral o de póster.
+                  </li>
+                  <li>
+                    Todos los resúmenes aceptados de los participantes serán publicados en un Libro de Resúmenes.
+                  </li>
+                  <li>
+                    Los artículos aceptados que cumplan los requisitos exigidos, serán invitados para la publicación en una edición especial.
+                  </li>
+                  <li>
+                    El pago de inscripción es necesario para la inclusión del resumen en el libro de Resúmenes.
+                  </li>
+                  <li>
+                    Los resúmenes enviados tienen que seguir un formato específico. Aquellos que no tengan el formato requerido serán rechazados.
+                  </li>
+                  <li>
+                    Se debe utilizar la plantilla proporcionada para asegurarse de que utiliza el formato correcto. Puede descargar la plantilla en el icono de word que aparece abajo.
+                  </li>
+                  <li>
+                    Por favor ingrese su resumen a través del siguiente Correo.
+                  </li>
+                </ul>
+              </p>
+
+          </div>
+          <div class="col-12 col-md-6">
+            <table>
+              <tr>
+                <td>
+                  <a href="{{asset('../assets/files/Formato_Resumen_VICIIABO2019.docx')}}" _blank>
+                    <img width="70px" src="https://static.wixstatic.com/media/b8964aa7650d463fac3b77e0d00e8f12.png/v1/fill/w_118,h_158,al_c,lg_1,q_80/b8964aa7650d463fac3b77e0d00e8f12.webp" alt="FormatoResumen_VCIIACR18.docx">
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <h5>Plantilla</h5>
+                </td>
+
+              </tr>
+              <tr>
+                <td width="300px">
+                  Los trabajos aprobados para presentar en formato de Cartel o Poster, por favor descargar el siguiente modelo de plantilla
+                </td>
+                <td>
+                  <a href="{{asset('../assets/files/Plantilla_poste_CIIABO2019.ppt')}}" _blank>
+                    <img  width="70px" src="https://static.wixstatic.com/media/a41192b40f324972a1d919a8350965f8.png/v1/fill/w_147,h_197,al_c,lg_1,q_80/a41192b40f324972a1d919a8350965f8.webp" alt="Plantilla_póster-_CIIA2019_.ppt">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </div>
+      </div>
+    </div>
+</section>
+
 
 <!--brands section -->
 <section class="bg-gray pt100 pb100" >
