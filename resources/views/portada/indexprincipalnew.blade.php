@@ -292,7 +292,141 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
     </div>
 </section>
 <!--about the event end -->
+<!--Price section-->
+<section class="pb100">
+    <div class="container">
+        <div class="section_title mb50">
+            <h3 class="title">
+                Precios
+            </h3>
+        </div>
 
+        <div class="row justify-content-center">
+            <div class="col-md-4 col-12">
+                <div class="price_box active">
+                    <div class="price_highlight">
+                        Recomendado
+                    </div>
+                   <div class="price_header">
+                       <h4>
+                           Ponente Oral y de cartel
+                       </h4>
+                       <h6>
+                           Antes del 31 de agosto
+                       </h6>
+                   </div>
+                    <div class="price_tag">
+                        100 <sup>$</sup>
+                    </div>
+                    <div class="price_header">
+
+                        <h6>
+                            El día del congreso
+                        </h6>
+                    </div>
+                     <div class="price_tag">
+                         120 <sup>$</sup>
+                     </div>
+
+                </div>
+            </div>
+            <div class="col-md-4 col-12">
+                <div class="price_box active">
+
+                   <div class="price_header">
+                       <h4>
+                           Ponente Oral y de cartel mienbros de redunia
+                       </h4>
+                       <h6>
+                           Antes del 31 de agosto
+                       </h6>
+                   </div>
+                    <div class="price_tag">
+                        80 <sup>$</sup>
+                    </div>
+                    <div class="price_header">
+
+                        <h6>
+                            El día del congreso
+                        </h6>
+                    </div>
+                     <div class="price_tag">
+                         100 <sup>$</sup>
+                     </div>
+
+                </div>
+            </div>
+            <div class="col-md-4 col-12">
+                <div class="price_box active">
+
+                   <div class="price_header">
+                       <h4>
+                           Profesionales
+                       </h4>
+                       <h6>
+                           Antes del 31 de agosto
+                       </h6>
+                   </div>
+                    <div class="price_tag">
+                        70 <sup>$</sup>
+                    </div>
+                    <div class="price_header">
+
+                        <h6>
+                            El día del congreso
+                        </h6>
+                    </div>
+                     <div class="price_tag">
+                         80 <sup>$</sup>
+                     </div>
+
+                </div>
+            </div>
+            <div class="col-md-4 col-12">
+                <div class="price_box active">
+
+                   <div class="price_header">
+                       <h4>
+                           Estudiantes de Grado
+                       </h4>
+                       <h6>
+                           Antes del 31 de agosto
+                       </h6>
+                   </div>
+                    <div class="price_tag">
+                        40 <sup>$</sup>
+                    </div>
+                    <div class="price_header">
+
+                        <h6>
+                            El día del congreso
+                        </h6>
+                    </div>
+                     <div class="price_tag">
+                         45 <sup>$</sup>
+                     </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-8">
+          <h3 class="title">
+              Cuenta Bancaria
+          </h3>
+          <p>
+            <h4>690-0139436</h4> <b>Banco Nacional de Bolivia S. A.</b>
+          </p>
+          <p>
+            Cuenta en dolares, remitir el voucher del depósito al Email: <b>ciiabo2019@hotmail.com</b> siguiendo las siguientes instrucciones. <a href="{{asset('../assets/files/GUiA_para_deposito.docx')}}" _blank>
+              <img width="70px" src="https://static.wixstatic.com/media/b8964aa7650d463fac3b77e0d00e8f12.png/v1/fill/w_118,h_158,al_c,lg_1,q_80/b8964aa7650d463fac3b77e0d00e8f12.webp" alt="GUiA_para_deposito.docx">
+            </a>
+          </p>
+        </div>
+
+
+    </div>
+
+</section>
 
 <!--speaker section-->
 <section class="pb100" id="themes">
@@ -301,6 +435,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
             <h3 class="title">
                Ejes temáticos
             </h3>
+
         </div>
     </div>
     <div class="row justify-content-center no-gutters">
