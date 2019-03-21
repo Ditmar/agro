@@ -21,21 +21,14 @@ class MainPageController extends BaseController
     }
 	public function index()
 	{
-    $mensaje = null;
-    $ciudades = \DB::table('Ciudad')->get();
-    $paises = \DB::table('Paises')->get();
-    $universidades = \DB::table('Universidad')->get();
-    $carreras = \DB::table('carrera')->get();
+    //$mensaje = null;
+    //$ciudades = \DB::table('Ciudad')->get();
+    //$paises = \DB::table('Paises')->get();
+    //$universidades = \DB::table('Universidad')->get();
+    //$carreras = \DB::table('carrera')->get();
     //indexprincipalnew
-    $inaguracion = \DB::table('tiempos')->get();
+    //$inaguracion = \DB::table('tiempos')->get();
 
-		return View("portada.indexprincipalnew",$this->baseresponse)
-                ->with('ciudades',$ciudades)
-                ->with('paises',$paises)
-                ->with('universidades',$universidades)
-                ->with('carreras',$carreras)
-                ->with('inaguracion',$inaguracion)
-                ->with('mensaje',$mensaje)
-                ->with("auth",\Auth::check());
+		return View("portada.indexprincipalnew",$this->baseresponse);
 	}
 }

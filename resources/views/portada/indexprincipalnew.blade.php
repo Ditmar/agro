@@ -630,7 +630,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     Se debe utilizar la plantilla proporcionada para asegurarse de que utiliza el formato correcto. Puede descargar la plantilla en el icono de word que aparece abajo.
                   </li>
                   <li>
-                    Por favor ingrese su resumen a través del siguiente Correo.
+                    Por favor ingrese su resumen a través del siguiente Correo. <h4>roberto.mt65@hotmail.com</h4>
                   </li>
                 </ul>
               </p>
