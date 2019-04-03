@@ -27,9 +27,9 @@ services:
         image: postgres:10.1
         restart: always
         environment:
-            - POSTGRES_DB=${DB_DATABASE}
-            - POSTGRES_USER=${DB_USERNAME}
-            - POSTGRES_PASSWORD=${DB_PASSWORD}
+            - POSTGRES_DB=conference
+            - POSTGRES_USER=dbuser
+            - POSTGRES_PASSWORD=dbpwd
         ports:
             - 5432:5432
         volumes:
