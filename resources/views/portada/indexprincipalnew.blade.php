@@ -493,7 +493,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                             <img data-cfsrc="{{asset('../assets/img/icons/img4.png')}}" alt="">
                         </div>
                           Calidad</h5>
-                        <p class="position">Calidad y optimización de la producción primaria agropecuaria </p>
+                        <p class="position">Estándares de Calidad </p>
                     </div>
                 </div>
             </div>
@@ -615,7 +615,9 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                   </div>
               </div>
             </div>
-
+	<div>
+		<a href="https://play.google.com/store/apps/details?id=com.darkdeymon.ceub_potosi"><img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" alt="app"/> App de Hoteles</a>
+	</div>
         </div>
     </div>
 </section>
