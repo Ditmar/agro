@@ -767,7 +767,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     Se debe utilizar la plantilla proporcionada para asegurarse de que utiliza el formato correcto. Puede descargar la plantilla en el icono de word que aparece abajo.
                   </li>
                   <li>
-                    Por favor ingrese su resumen a través del siguiente Correo. <h4>roberto.mt65@hotmail.com</h4>
+                    Por favor ingrese su resumen a través del siguiente Correo. <h4>ciiabo2019@hotmail.com</h4>
                   </li>
                 </ul>
               </p>
@@ -815,20 +815,13 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
         </div>
         <div class="brand_carousel owl-carousel">
             <div class="brand_item text-center">
-              <img data-cfsrc="{{asset('../assets/img/brands/b1.png')}}" alt="brand" style="display:none;visibility:hidden;"><noscript><img src="assets/img/brands/b1.png" alt="brand"></noscript>
+              <img data-cfsrc="{{asset('../assets/img/brands/b1.jpg')}}" alt="brand" style="display:none;visibility:hidden;"><noscript><img src="assets/img/brands/b1.jpg" alt="brand"></noscript>
             </div>
             <div class="brand_item text-center">
-                <img data-cfsrc="{{asset('../assets/img/brands/b2.png')}}" alt="brand" style="display:none;visibility:hidden;"><noscript><img src="assets/img/brands/b2.png" alt="brand"></noscript>
+                <img data-cfsrc="{{asset('../assets/img/brands/b2.jpg')}}" alt="brand" style="display:none;visibility:hidden;"><noscript><img src="assets/img/brands/b2.jpg" alt="brand"></noscript>
             </div>
-
             <div class="brand_item text-center">
                 <img data-cfsrc="{{asset('../assets/img/brands/b3.png')}}" alt="brand" style="display:none;visibility:hidden;"><noscript><img src="assets/img/brands/b3.png" alt="brand"></noscript>
-            </div>
-            <div class="brand_item text-center">
-                <img data-cfsrc="assets/img/brands/b4.png" alt="brand')}}" style="display:none;visibility:hidden;"><noscript><img src="assets/img/brands/b4.png" alt="brand"></noscript>
-            </div>
-            <div class="brand_item text-center">
-                <img data-cfsrc="{{asset('../assets/img/brands/b5.png')}}" alt="brand" style="display:none;visibility:hidden;"><noscript><img src="assets/img/brands/b5.png" alt="brand"></noscript>
             </div>
         </div>
     </div>
