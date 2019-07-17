@@ -335,7 +335,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
 
                    <div class="price_header">
                        <h4>
-                           Ponente Oral y de cartel mienbros de redunia
+                           Ponente Oral y de cartel miembros de red UNIA
                        </h4>
                        <h6>
                            Antes del 31 de agosto
@@ -411,10 +411,11 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
         </div>
         <div class="col-12 col-md-8">
           <h3 class="title">
-              Cuenta Bancaria
+              Cuentas Bancarias
           </h3>
           <p>
-            <h4>690-0139436</h4> <b>Banco Nacional de Bolivia S. A.</b>
+            <h4>690-0139436</h4> <b>Banco Nacional de Bolivia S. A.</b> <br/>
+	  <h4>690827-501-1</h4> <b>BANCO BISA DIRECCIÓN: CLL. SUCRE 2729 ZONA CENTRAL</b> <h4>SWIFT: BANIBOL XXX</h4>
           </p>
           <p>
             Cuenta en dolares, remitir el voucher del depósito al Email: <b>ciiabo2019@hotmail.com</b> siguiendo las siguientes instrucciones. <a href="{{asset('../assets/files/GUiA_para_deposito.docx')}}" _blank>
@@ -656,7 +657,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                     </td>
                     <td colspan="3">
                         <div class="event_place">
-                            <h5>11 de marzo 2019 - 30 de junio 2019</h5>
+                            <h5>11 de marzo 2019 - 15 de agosto 2019</h5>
                             <h7>Recepción de resúmenes al evento dentro de los ejes temáticos (Max.300 palabras)</h7>
                         </div>
                     </td>
@@ -672,7 +673,7 @@ window.__mirage2 = {petok:"0cf66fd8be4f5248e8d4b68d4f98a3657b662ad2-1537327471-1
                   </td>
                   <td colspan="3">
                       <div class="event_place">
-                          <h5>01 de julio 2018 - 31 de julio 2018</h5>
+                          <h5>01 de julio 2019 - 17 de agosto 2019</h5>
                           <h7>Envío de confirmación de aceptación del trabajo según la modalidad: oral o cartel (Los resultados son inapelables)</h7>
                       </div>
                   </td>
